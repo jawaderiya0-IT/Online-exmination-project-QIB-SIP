@@ -9,9 +9,9 @@ public class UserDatabase {
 
     public UserDatabase() {
         // Pre-loaded users
-        users.put("student1", new User("student1", "Ved@123", "Vedant Raut",  "ved123@gmail.com"));
-        users.put("student2", new User("student2", "Om@123", "Om bure",  "om456@gmail.com"));
-        users.put("student3", new User("student3", "Gargi@123", "Gargi Raut",   "gargi789@gmail.com"));
+        users.put("student1", new User("student1", "Riya@123", "Riya jawade",  "riya1@gmail.com"));
+        users.put("student2", new User("student2", "Swati@123", "Swati roy",  "swati2@gmail.com"));
+        users.put("student3", new User("student3", "Anshu@123", "Anshu jawade",   "anshu3@gmail.com"));
     }
 
     public User findUser(String username) {
