@@ -235,3 +235,14 @@ Licensed under the **MIT License**.
 <div align="center">
   <sub>Built as a learning project · Core Java · No external dependencies</sub>
 </div>
+<img width="1757" height="1002" alt="Screenshot 2026-05-12 155948" src="https://github.com/user-attachments/assets/dce8b296-7e77-484c-9083-45e6cf75914d" />
+<img width="1611" height="1022" alt="Screenshot 2026-05-12 160009" src="https://github.com/user-attachments/assets/488a9ed7-16fb-4bca-bd46-1daf575b3fd4" />
+<img width="1612" height="1005" alt="Screenshot 2026-05-12 160018" src="https://github.com/user-attachments/assets/95dbd8c0-9ae1-422b-b21b-68587b5d2672" />
+<img width="1606" height="983" alt="Screenshot 2026-05-12 160031" src="https://github.com/user-attachments/assets/a50d7cfe-d1f6-42a8-abad-dcfe4047201b" />
+<img width="1710" height="1021" alt="Screenshot 2026-05-12 160043" src="https://github.com/user-attachments/assets/2bce6741-3241-48f3-a7cd-a3ccc8c2ebc4" />
+<img width="1643" height="1006" alt="Screenshot 2026-05-12 160055" src="https://github.com/user-attachments/assets/5cdba554-8703-4e7b-be06-57e0e9152e16" />
+<img width="1710" height="987" alt="Screenshot 2026-05-12 160104" src="https://github.com/user-attachments/assets/57dd135d-b7b2-45cd-ba04-6b4a07f04ceb" />
+
+
+
+
