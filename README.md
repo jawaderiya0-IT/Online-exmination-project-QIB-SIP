@@ -111,9 +111,9 @@ java -cp out exam.Main
 
 | Username   | Password  | Full Name    |
 |:----------:|:---------:|:------------:|
-| `student1` | `pass123` | Ravi Sharma  |
-| `student2` | `pass456` | Priya Mehta  |
-| `student3` | `pass789` | Amit Kumar   |
+| `student1` | `Riya@123` | Riya jawade |
+| `student2` | `Swati@123`| Swati roy   |
+| `student3` | `Anshu@123`| Anshu jawade|
 
 ---
 
@@ -126,8 +126,8 @@ java -cp out exam.Main
   ╚═══════════════════════════════════════════╝
 
   Username: student1
-  Password: pass123
-  ✓ Login successful! Welcome, Ravi Sharma.
+  Password: Riya@123
+  ✓ Login successful! Welcome, Riya jawade.
 
   ╔══════════════════════════════════╗
   ║         STUDENT DASHBOARD        ║
@@ -139,8 +139,8 @@ java -cp out exam.Main
   ╚══════════════════════════════════╝
 
   ╔════════════════════════════════════════════════════╗
-  ║  ONLINE EXAM  │  Q 01 / 10  │  Time: 01:47 remaining  ║
-  ║  Student: Ravi Sharma         Attempted: 00/10   ║
+  ║  ONLINE EXAM  │  Q 01 / 10  │  Time: 01:47 remaining║
+  ║  Student: Riya jawade         Attempted: 00/10      ║
   ╚════════════════════════════════════════════════════╝
 
   Q1: Which keyword is used to define a class in Java?
@@ -155,9 +155,9 @@ java -cp out exam.Main
   ╔══════════════════════════════════════════╗
   ║              EXAM RESULT                 ║
   ╠══════════════════════════════════════════╣
-  ║  Student  : Ravi Sharma                  ║
-  ║  Score    : 8 / 10  (80.0%)              ║
-  ║  Grade    : A                            ║
+  ║  Student  : Riya jawade                 ║
+  ║  Score    : 2/ 10  (20.0%)              ║
+  ║  Grade    : b                           ║
   ╚══════════════════════════════════════════╝
 ```
 
