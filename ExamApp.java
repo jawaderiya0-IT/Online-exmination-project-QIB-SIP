@@ -350,9 +350,9 @@ public class ExamApp {
         System.out.println("  ║           Core Java Project               ║");
         System.out.println("  ╠═══════════════════════════════════════════╣");
         System.out.println("  ║  Demo Accounts:                           ║");
-        System.out.println("  ║  Username: student1  Password: Ved@123    ║");
-        System.out.println("  ║  Username: student2  Password: Om@123     ║");
-        System.out.println("  ║  Username: student3  Password: Gargi@123  ║");
+        System.out.println("  ║  Username: student1  Password: Riya@123   ║");
+        System.out.println("  ║  Username: student2  Password: Swati@123  ║");
+        System.out.println("  ║  Username: student3  Password: Anshu@123  ║");
         System.out.println("  ╚═══════════════════════════════════════════╝");
     }
 }
